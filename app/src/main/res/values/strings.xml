@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Basic Converter</string>
+    
+    <string-array name="weights">
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+    </string-array>
+</resources>
